@@ -42,3 +42,10 @@ For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-
 <p>After I have clarified the specific insights to highlight with the editor, I can then choose a suitable chart type and tool for the task. For example, if the focus is on production and import/export of critical raw materials, a stacked bar chart or a line chart could be used to show the trends over time. If the focus is on comparing the EU's strategy to those of other countries, a radar chart or a bubble chart could be used to visualize the similarities and differences.
 
 <p>I personally like to work on <b>d3.js</b> and <b>Illustrator</b>, which is why I would prioritize those tools to create the charts. If there are any issues or questions during the process, I would communicate them with the editor to ensure that the final chart meets their expectations.
+
+## Coding exercises
+
+### Exercise A
+### Exercise B
+### Exercise C
+### Bonus
