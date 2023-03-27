@@ -10,11 +10,11 @@ The data used in this map was obtained from the following sources:
 ## Files
 The repository contains the following files:
 
-<li><a href"election_results_2017.csv">election_results_2017.csv</a>: CSV file containing the election results data for the second round of the 2017 presidential election by municipality.</li>
-<li><a href"election_results_2022.csv">election_results_2022.csv</a>: CSV file containing the election results data for the second round of the 2022 presidential election by municipality.</li>
-<li><a href"municipalities_shapefile.shp">municipalities_shapefile.shp</a>: Shapefile containing the municipalities of France.</li>
-<li><a href"create_map.py">create_map.py</a>: Python script that imports the election results data and the municipality shapefile, joins them based on the municipality code (code INSEE), and creates a map illustrating the results of the two elections.</li>
-<li><a href"map.png">map.png</a>: PNG file of the final map.</li>
+<li><a href="election_results_2017.csv">election_results_2017.csv</a>: CSV file containing the election results data for the second round of the 2017 presidential election by municipality.</li>
+<li><a href="election_results_2022.csv">election_results_2022.csv</a>: CSV file containing the election results data for the second round of the 2022 presidential election by municipality.</li>
+<li><a href="municipalities_shapefile.shp">municipalities_shapefile.shp</a>: Shapefile containing the municipalities of France.</li>
+<li><a href="create_map.py">create_map.py</a>: Python script that imports the election results data and the municipality shapefile, joins them based on the municipality code (code INSEE), and creates a map illustrating the results of the two elections.</li>
+<li><a href="map.png">map.png</a>: PNG file of the final map.</li>
 
 ## License
 The code in this repository is licensed under the MIT License. You may use this code for any purpose.
