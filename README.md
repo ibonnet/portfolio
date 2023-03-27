@@ -10,5 +10,8 @@ The code used to process the data and generate the graphs is written in Javascri
 ## Graphs
 The graphs included in this repository are visualizations of the data used in the corresponding journalism articles. The graphs are generated using the code in this repository and can be reproduced using the same data and code.
 
+## Folders
+<li><a href="/politico">POLITICO</a></li>
+
 ## Contributing
 Contributions to this repository are welcome! If you find an issue or have an improvement, please submit a pull request.
