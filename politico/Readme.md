@@ -1,4 +1,4 @@
-# Web Producer: Data Visualization
+# Data Journalist at POLITICO
 This folder contains the files for the <b>"Web Producer: Data Visualization"</b> and <b>"Data Journalist"</b> positions at <a href="https://www.politico.eu/"><i>POLITICO Europe</i></a>.
 
 ## Exercise 1
