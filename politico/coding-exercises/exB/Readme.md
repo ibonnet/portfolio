@@ -10,5 +10,5 @@ This repository contains the coding exercise to visualize EU imports of select p
 
 ## Code
 
-## Documentation
-This exercise uses <a href="https://ec.europa.eu/eurostat/databrowser/view/DS-057380/default/table?lang=en&category=ext_go.ext_go_detail">Eurostat data</a> which can be download <a href="https://www.politico.eu/wp-content/uploads/2023/03/07/Russia-trade-exercise-data.zip">here</a>.
+## Data Source
+The data used in this map was obtained from <a href="https://ec.europa.eu/eurostat/databrowser/view/DS-057380/default/table?lang=en&category=ext_go.ext_go_detail">Eurostat</a> which can be downloaded <a href="https://www.politico.eu/wp-content/uploads/2023/03/07/Russia-trade-exercise-data.zip">here</a>.
