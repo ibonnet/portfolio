@@ -4,8 +4,13 @@ This folder contains the files for the "Web Producer: Data Visualization" positi
 
 ## Exercise 1
 
-<li>Data from a new Transparency International analysis with MEP declarations since the beginning of this mandate available <a href="">here</a>.</li>
-<li>Graph available <a href"">here</a>.</li>
+This exercise uses data from a new Transparency International analysis with MEP declarations since the beginning of this mandate, which is available <a href="/ex1">here</a>.</li>
+
+### Trend in declarations over time
+I used a line chart to show the trend in declarations over time.
+
+### Number of declarations submitted in different time periods
+I used a bar chart could be used to compare the number of declarations submitted in different time periods
 
 ## Exercise 2
 
