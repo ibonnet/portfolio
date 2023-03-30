@@ -12,7 +12,7 @@ I used a <b>bar chart</b> to show the percentage of late declarations per politi
 <li>Used tool: I used Excel for the dataset, then exported the document as a .csv file. I used the <a href"https://d3-graph-gallery.com/">d3.js Graph Gallery</a> to build the bar chart.</li>
 <li>The bar chart can be accessed <a href="">here</a>.</li>
 
-<img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="200">
+<img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="300">
 
 <i>Note: I added a quick tooltip for interactivity. If given more time, I would make it more aesthetically pleasing and fixed the percentage to only a two decimals.</i>
 
