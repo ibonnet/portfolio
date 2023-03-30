@@ -6,7 +6,15 @@ This exercise uses data from a new <a href="https://transparency.eu/mep-lobby-br
 <p>I first researched previous work from POLITICO about the Qatargate to follow the chart style and find inspiration. For this exercise, I used <a href="https://www.politico.eu/article/meps-rush-declare-junkets-qatargate-analysis-transparency-international-corruption/">Wilhelmine Preussen's article and Arnau Busquets Guàrdia's charts</a> <b>"MEPs rush to declare junkets amid Qatargate, analysis shows"</b> published on Feb. 15, 2023 as guidance.
 
 ### Late declarations per political group
-I used a <b>line chart</b> to show the percentage of late declarations per political group. The three groups with the highest percentage of late submissions are left political-parties, with the Progressive Alliance of Socialists and Democrats submitting 60% of the submissions late to the MEP.
+I used a <b>bar chart</b> to show the percentage of late declarations per political group. The three groups with the highest percentage of late submissions are left political-parties, with the Progressive Alliance of Socialists and Democrats submitting 60% of the submissions late to the MEP.
+
+<li>Dataset: I created <a href="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsCOUNT.csv">a new excel sheet where I grouped the MEP political parties.</a></li>
+<li>Used tool: I used Excel for the dataset, then exported the document as a .csv file. I used the <a href"https://d3-graph-gallery.com/">d3.js Graph Gallery</a> to build the bar chart.</li>
+<li>The bar chart can be accessed <a href="">here</a>.</li>
+
+<img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="200">
+
+<i>Note: I added a quick tooltip for interactivity. If given more time, I would make it more aesthetically pleasing and fixed the percentage to only a two decimals.</i>
 
 ### Number of declarations submitted in different time periods
 I used a <b>bar chart</b> could be used to compare the number of declarations submitted in different time periods
