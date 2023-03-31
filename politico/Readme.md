@@ -29,6 +29,7 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 ### Number of declarations submitted in different time periods
 A <b>Gantt Chart</b> could be used to compare the number of declarations submitted in different time periods.
 
+<a href="https://github.com/ibonnet/portfolio/blob/ef349863108375e77fcded302d6f60c82a3b2a0d/politico/ex1/SubmissionDate.json">new array here</a>.
 
 ## Exercise 2
 For this exercise, I used <a href="https://www.politico.eu/article/ombudsman-criticizes-eu-commission-on-revolving-doors/">Lily Bayer's article</a> <b>"Ombudsman criticizes European Commission on ‘revolving doors’"</b> published on May 18, 2022 for inspiration.
