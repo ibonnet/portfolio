@@ -51,6 +51,11 @@ This pie chart shows the percentage breakdown of the top three concerns in the i
 <li><b>Proper use of discretionary powers (18%)</b></li>
 <br>A pie chart is a suitable choice to show the proportions of different categories and work well as images that don't have interactivity due to the fact that they are straightforward and accessible to the audience.
 
+
+<br>
+  <img src="https://github.com/ibonnet/portfolio/blob/1933e93589cd7435970674df292649dd64976e87/politico/ex2/TopConcerns.png" height="400">
+
+
 ### Breakdown of inquiries handled by the Ombudsman's office in 2021
 This pie chart shows the breakdown of inquiries handled by the Ombudsman's office in 2021:
 <li><b>Advice through the Interactive Guide on the Ombudsman's website</b> (83%)</li>
@@ -58,6 +63,11 @@ This pie chart shows the breakdown of inquiries handled by the Ombudsman's offic
 <li><b>Handled as complaints</b> (11%)</li>
 <br>This chart can also be easily visualized using a pie chart and photographed for the newsletter.
 
+
+
+<br>
+  <img src="" height="400">
+  
 ## Exercise 3
 For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-materials-act-europe-guide/">Antonia Zimmermann and Sarah Anne Aarup's article</a> <b>"The critical raw materials you need to know"</b> published on March 9, 2023 for inspiration.
 
