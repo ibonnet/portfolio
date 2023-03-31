@@ -2,12 +2,12 @@
 This folder contains the files for the <b>"Web Producer: Data Visualization"</b> and <b>"Data Journalist"</b> positions at <a href="https://www.politico.eu/"><i>POLITICO Europe</i></a>.
 
 Based on the website's chart, I will be using the following color palette and fonts when available:
-<li><b>Color palette:</b> #E198A6 for the most important information and #CDC1C3 for the secondary information</li>
+<li><b>Color palette:</b> <i>#E198A6</i> for the most important information and <i>#CDC1C3</i> for the secondary information</li>
 
 <br>
   <img src="https://github.com/ibonnet/portfolio/blob/main/politico/colorpalette.png?raw=true" height="200">
 
-<li><b>Font:</b> 'proxima-nova', sans-serif</li>
+<li><b>Font:</b> <i>'proxima-nova', sans-serif;</i> <i>font-family: 'Roboto',Arial,sans-serif</i></li>
 
 ## Exercise 1
 This exercise uses data from a new <a href="https://transparency.eu/mep-lobby-brief/">Transparency International EU</a> analysis with MEP declarations since the beginning of this mandate, which is available <a href="https://github.com/ibonnet/portfolio/tree/main/politico/ex1">here</a>.</li>
