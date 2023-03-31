@@ -64,7 +64,7 @@ This pie chart shows the breakdown of inquiries handled by the Ombudsman's offic
 
 <br>
 <br>
-  <img src="https://github.com/ibonnet/portfolio/blob/90df98638d12729a2cd5e441ef20226dfd314e2b/politico/ex2/Inquiries2.png" height="380">
+  <img src="https://github.com/ibonnet/portfolio/blob/0f475085752bce225ef06f20246f7f49dfeadfb1/politico/ex2/Inquiries2.png" height="400">
   
 ## Exercise 3
 For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-materials-act-europe-guide/">Antonia Zimmermann and Sarah Anne Aarup's article</a> <b>"The critical raw materials you need to know"</b> published on March 9, 2023 for inspiration.
