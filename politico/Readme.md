@@ -67,22 +67,21 @@ This pie chart shows the breakdown of inquiries handled by the Ombudsman's offic
   <img src="https://github.com/ibonnet/portfolio/blob/0f475085752bce225ef06f20246f7f49dfeadfb1/politico/ex2/Inquiries2.png" height="400">
   
 ## Exercise 3
-For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-materials-act-europe-guide/">Antonia Zimmermann and Sarah Anne Aarup's article</a> <b>"The critical raw materials you need to know"</b> published on March 9, 2023 for inspiration.
-
-<p>The editor's request is very general, which gives room for creativity and different types of charts and visualizations. This is why I would first look at the data available and suggest multiple ideas to discuss with the editor. For instance:
+For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-materials-act-europe-guide/">Antonia Zimmermann and Sarah Anne Aarup's article</a> <b>"The critical raw materials you need to know"</b> published on March 9, 2023 for inspiration, which is based on <a href="https://rmis.jrc.ec.europa.eu/uploads/CRMs_for_Strategic_Technologies_and_Sectors_in_the_EU_2020.pdf">this report</a>.
+  
+<br>I would first look at the data available and suggest multiple ideas to discuss with the editor. For instance:
 
 <li>Top critical raw materials by production or import/export</li>
 <li>Trends in critical raw materials production or use</li>
 <li>Comparison of the EU's critical raw materials strategy to those of other countries/regions</li>
 <li>Impact of the critical raw materials strategy on EU industries or economies</li>
 
-<p>After I have clarified the specific insights to highlight with the editor, I can then choose a suitable chart type and tool for the task. For example, if the focus is on production and import/export of critical raw materials, a stacked bar chart or a line chart could be used to show the trends over time. If the focus is on comparing the EU's strategy to those of other countries, a radar chart or a bubble chart could be used to visualize the similarities and differences.
+  <p>The editor's request is very general, which gives room for creativity and different types of charts and visualizations. In POLITICO's recent article, the writers elaborated a very interesting game for the readers, who can explore 12 key critical raw materials.
+    
+<p>After I have clarified the specific insights to highlight with the editor, I can then choose a suitable chart type and tool for the task. For example, if the focus is on production and import/export of critical raw materials, a stacked bar chart or a line chart could be used to show the trends over time. If the focus is on comparing the EU's strategy to those of other countries, a radar chart or a bubble chart could be used to visualize the similarities and differences. It would also be interesting to create a map to visualize where the EU sources the raw materials.
 
 <p>I personally like to work on <b>d3.js</b> and <b>Illustrator</b>, which is why I would prioritize those tools to create the charts. If there are any issues or questions during the process, I would communicate them with the editor to ensure that the final chart meets their expectations.
 
 ## Coding exercises
 
-### Exercise A
-### Exercise B
-### Exercise C
 ### Bonus
