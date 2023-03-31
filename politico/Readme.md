@@ -27,7 +27,7 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 <i>Note: I added a quick tooltip for interactivity. If given more time, I would make it more aesthetically pleasing and fixed the percentage to only a two decimals.</i>
 
 ### Number of declarations submitted in different time periods
-I used a <b>bar chart</b> could be used to compare the number of declarations submitted in different time periods
+A <b>Gantt Chart</b> could be used to compare the number of declarations submitted in different time periods.
 
 
 ## Exercise 2
