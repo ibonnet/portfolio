@@ -5,7 +5,7 @@ Based on the website's chart, I will be using the following color palette and fo
 <li><b>Color palette:</b> <i>#E198A6</i> for the most important information and <i>#CDC1C3</i> for the secondary information</li>
 
 <br>
-  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/colorpalette.png?raw=true" height="200">
+  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/colorpalette.png?raw=true" height="170">
 
 <li><b>Font:</b> <i>'proxima-nova', sans-serif;</i> <i>font-family: 'Roboto',Arial,sans-serif</i></li>
 
@@ -30,6 +30,12 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 A <b>Gantt Chart</b> could be used to compare the number of declarations submitted in different time periods.
 
 <a href="https://github.com/ibonnet/portfolio/blob/ef349863108375e77fcded302d6f60c82a3b2a0d/politico/ex1/SubmissionDate.json">new array here</a>.
+
+### Late declarations per MEP
+With <a href="https://app.datawrapper.de/">Datawrapper</a>, I created this <b>Range Plot</b> to see the declaration period for each MEP, which shows significant delays for specific members who submitted their declarations almost four years after their trips.
+
+<br>
+  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsPerMEP.gif?raw=true" height="350">
 
 ## Exercise 2
 For this exercise, I used <a href="https://www.politico.eu/article/ombudsman-criticizes-eu-commission-on-revolving-doors/">Lily Bayer's article</a> <b>"Ombudsman criticizes European Commission on ‘revolving doors’"</b> published on May 18, 2022 for inspiration.
