@@ -22,7 +22,7 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
   <li><b>Documentation:</b> All files used for this exercise are available <a href="https://github.com/ibonnet/portfolio/edit/main/politico/">here</a>.</li>
   
 <br>
-  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="300">
+  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="350">
 
 <i>Note: I added a quick tooltip for interactivity. If given more time, I would make it more aesthetically pleasing and fixed the percentage to only a two decimals.</i>
 
