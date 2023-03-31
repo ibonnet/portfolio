@@ -41,18 +41,16 @@ I extracted all unique values from the dataset, creating <a href="https://github
   <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsPerMEP.gif?raw=true" height="350">
 
 ## Exercise 2
-For this exercise, I used <a href="https://www.politico.eu/article/ombudsman-criticizes-eu-commission-on-revolving-doors/">Lily Bayer's article</a> <b>"Ombudsman criticizes European Commission on ‘revolving doors’"</b> published on May 18, 2022 for inspiration.
+For this exercise, I used <a href="https://www.politico.eu/article/ombudsman-criticizes-eu-commission-on-revolving-doors/">Lily Bayer's article</a> <b>"Ombudsman criticizes European Commission on ‘revolving doors’"</b> published on May 18, 2022 for inspiration. I used <b>Abode Illustrator</b> to build the two pie charts.
 <p>Two pie charts could effectively visualize the top three concerns and the breakdown of inquiries handled by the Ombudsman's office in 2021.
 
 ### Top concerns about the EU institutions
 This pie chart shows the percentage breakdown of the top three concerns in the inquiries closed by the Ombudsman in 2021:
 <li><b>Transparency and accountability</b> (29%)</li>
 <li><b>Culture of service</b> (26%)</li>
-<li><b>Proper use of discretionary powers (18%)</b></li>
-<br>A pie chart is a suitable choice to show the proportions of different categories and work well as images that don't have interactivity due to the fact that they are straightforward and accessible to the audience.
+<li><b>Proper use of discretionary powers</b> (18%)</li>
 
-
-<br>
+  <br>
   <img src="https://github.com/ibonnet/portfolio/blob/1933e93589cd7435970674df292649dd64976e87/politico/ex2/TopConcerns.png" height="400">
 
 
