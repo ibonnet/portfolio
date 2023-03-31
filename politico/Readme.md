@@ -29,8 +29,10 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 ### Number of declarations submitted in different time periods
 I extracted all unique values from the dataset, creating <a href="https://github.com/ibonnet/portfolio/blob/ef349863108375e77fcded302d6f60c82a3b2a0d/politico/ex1/SubmissionDate.json">a new array</a> with the number of declarations submitted each day since 2019.
   
+  With <a href="https://app.datawrapper.de/"><b>Datawrapper</b></a>, I created this <b>bar chart</b> which you can visualize <a href="https://datawrapper.dwcdn.net/smsND/1/">here</a>.
+  
   <br>
-  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/NumberofDeclarationsSubmitted.gif" height="170">
+  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/NumberofDeclarationsSubmitted.gif" height="200">
 
 ### Late declarations per MEP
   With <a href="https://app.datawrapper.de/"><b>Datawrapper</b></a>, I created this <b>Range Plot</b> to see the declaration period for each MEP, which shows significant delays for specific members who submitted their declarations almost four years after their trips.
