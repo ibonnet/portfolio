@@ -17,7 +17,7 @@ This exercise uses data from a new <a href="https://transparency.eu/mep-lobby-br
 I used a <b>stacked bar chart</b> to show the percentage of late declarations per political group. The three groups with the highest percentage of late submissions are left political-parties, with the Progressive Alliance of Socialists and Democrats submitting 60% of the submissions late to the MEP.
 
   <li><b>Dataset:</b> I created <a href="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsCOUNT.csv">a new excel sheet where I grouped the MEP political parties.</a></li>
-  <li><b>Used tool:</b> I used Excel for the dataset, then exported the document as a .csv file. I used the <a href"https://d3-graph-gallery.com/">d3.js Graph Gallery</a> to build the bar chart.</li>
+  <li><b>Used tool:</b> I used Excel for the dataset, then exported the document as a .csv file. I used the <a href="https://d3-graph-gallery.com/"><b>d3.js Graph Gallery</b></a> to build the bar chart.</li>
   <li><b>Interactivity:</b> The bar chart can be accessed <a href="https://ibonnet.github.io/portfolio/tree/main/politico/ex1">here</a>.</li>
   <li><b>Documentation:</b> All files used for this exercise are available <a href="https://github.com/ibonnet/portfolio/edit/main/politico/">here</a>.</li>
   
@@ -27,12 +27,13 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 <i>Note: I added a quick tooltip for interactivity. If given more time, I would make it more aesthetically pleasing and fixed the percentage to only a two decimals.</i>
 
 ### Number of declarations submitted in different time periods
-A <b>Gantt Chart</b> could be used to compare the number of declarations submitted in different time periods.
-
-<a href="https://github.com/ibonnet/portfolio/blob/ef349863108375e77fcded302d6f60c82a3b2a0d/politico/ex1/SubmissionDate.json">new array here</a>.
+I extracted all unique values from the dataset, creating <a href="https://github.com/ibonnet/portfolio/blob/ef349863108375e77fcded302d6f60c82a3b2a0d/politico/ex1/SubmissionDate.json">a new array</a> with the number of declarations submitted each day since 2019.
+  
+  <br>
+  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/NumberofDeclarationsSubmitted.gif" height="170">
 
 ### Late declarations per MEP
-With <a href="https://app.datawrapper.de/">Datawrapper</a>, I created this <b>Range Plot</b> to see the declaration period for each MEP, which shows significant delays for specific members who submitted their declarations almost four years after their trips.
+  With <a href="https://app.datawrapper.de/"><b>Datawrapper</b></a>, I created this <b>Range Plot</b> to see the declaration period for each MEP, which shows significant delays for specific members who submitted their declarations almost four years after their trips.
 
 <br>
   <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsPerMEP.gif?raw=true" height="350">
