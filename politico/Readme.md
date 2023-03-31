@@ -85,3 +85,7 @@ For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-
 ## Coding exercises
 
 ### Bonus
+Data with the results of the second round of the French presidential election in 2017 and 2022 by municipality can be found here:
+
+<li>Election results data: <a href="https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/FE.html">French Ministry of the Interior</a></li>
+<li>Municipality shapefile: <a href="https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#communes">French National Geographic Institute (IGN)</a></li>
