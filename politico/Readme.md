@@ -1,6 +1,14 @@
 # Data Journalist at POLITICO
 This folder contains the files for the <b>"Web Producer: Data Visualization"</b> and <b>"Data Journalist"</b> positions at <a href="https://www.politico.eu/"><i>POLITICO Europe</i></a>.
 
+Based on the website's chart, I will be using the following color palette and fonts when available:
+<li><b>Color palette:</b> rgb (225, 152, 166)</li>
+
+<br>
+  <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="200">
+
+<li><b>Font:</b> </li>
+
 ## Exercise 1
 This exercise uses data from a new <a href="https://transparency.eu/mep-lobby-brief/">Transparency International EU</a> analysis with MEP declarations since the beginning of this mandate, which is available <a href="https://github.com/ibonnet/portfolio/tree/main/politico/ex1">here</a>.</li>
 <p>I first researched previous work from POLITICO about the Qatargate to follow the chart style and find inspiration. For this exercise, I used <a href="https://www.politico.eu/article/meps-rush-declare-junkets-qatargate-analysis-transparency-international-corruption/">Wilhelmine Preussen's article and Arnau Busquets Guàrdia's charts</a> <b>"MEPs rush to declare junkets amid Qatargate, analysis shows"</b> published on Feb. 15, 2023 as guidance.
@@ -8,12 +16,12 @@ This exercise uses data from a new <a href="https://transparency.eu/mep-lobby-br
 ### Late declarations per political group
 I used a <b>stacked bar chart</b> to show the percentage of late declarations per political group. The three groups with the highest percentage of late submissions are left political-parties, with the Progressive Alliance of Socialists and Democrats submitting 60% of the submissions late to the MEP.
 
-<li><b>Dataset:</b> I created <a href="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsCOUNT.csv">a new excel sheet where I grouped the MEP political parties.</a></li>
-<li><b>Used tool:</b> I used Excel for the dataset, then exported the document as a .csv file. I used the <a href"https://d3-graph-gallery.com/">d3.js Graph Gallery</a> to build the bar chart.</li>
-<li><b>Interactivity:</b> The bar chart can be accessed <a href="https://ibonnet.github.io/portfolio/tree/main/politico/ex1">here</a>.</li>
-
-<br>
+  <li><b>Dataset:</b> I created <a href="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsCOUNT.csv">a new excel sheet where I grouped the MEP political parties.</a></li>
+  <li><b>Used tool:</b> I used Excel for the dataset, then exported the document as a .csv file. I used the <a href"https://d3-graph-gallery.com/">d3.js Graph Gallery</a> to build the bar chart.</li>
+  <li><b>Interactivity:</b> The bar chart can be accessed <a href="https://ibonnet.github.io/portfolio/tree/main/politico/ex1">here</a>.</li>
+  <li><b>Documentation:</b> All files used for this exercise are available <a href="https://github.com/ibonnet/portfolio/edit/main/politico/">here</a>.</li>
   
+<br>
   <img src="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsScreenshot.png?raw=true" height="300">
 
 <i>Note: I added a quick tooltip for interactivity. If given more time, I would make it more aesthetically pleasing and fixed the percentage to only a two decimals.</i>
@@ -21,8 +29,6 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 ### Number of declarations submitted in different time periods
 I used a <b>bar chart</b> could be used to compare the number of declarations submitted in different time periods
 
-### Notes
-<li>Colors used: rgb(225, 152, 166)</li>
 
 ## Exercise 2
 For this exercise, I used <a href="https://www.politico.eu/article/ombudsman-criticizes-eu-commission-on-revolving-doors/">Lily Bayer's article</a> <b>"Ombudsman criticizes European Commission on ‘revolving doors’"</b> published on May 18, 2022 for inspiration.
