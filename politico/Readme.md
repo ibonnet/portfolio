@@ -86,13 +86,13 @@ For this exercise, I used <a href="https://www.politico.eu/article/critical-raw-
 
 ### Bonus
 Data with the results of the second round of the French presidential election in 2017 and 2022 by municipality can be found here:
-
+  <br>
 <li>Election results data: <a href="https://www.interieur.gouv.fr/Elections/Les-resultats/Presidentielles/elecresult__presidentielle-2017/(path)/presidentielle-2017/FE.html">French Ministry of the Interior</a></li>
 <li>Municipality shapefile: <a href="https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#communes">French National Geographic Institute (IGN)</a></li>
-  
+    <br>
   With <a href="https://app.datawrapper.de/"><b>Datawrapper</b></a>, I created a map with the abstention rates in 2017 and 2022.
   <br>
-  <img src="https://github.com/ibonnet/portfolio/blob/0f475085752bce225ef06f20246f7f49dfeadfb1/politico/ex2/Inquiries2.png" height="400">
-  <img src="https://github.com/ibonnet/portfolio/blob/0f475085752bce225ef06f20246f7f49dfeadfb1/politico/ex2/Inquiries2.png" height="400">
+  <img src="https://github.com/ibonnet/portfolio/blob/dbc4bc34c7afa3e63133e38e717af91e6c2f4e9d/politico/coding-exercises/bonus/elections2017.png" height="400">
+  <img src="https://github.com/ibonnet/portfolio/blob/dbc4bc34c7afa3e63133e38e717af91e6c2f4e9d/politico/coding-exercises/bonus/elections2022.png" height="400">
   
-  <br>Would I have had more time in my hands to complete this skills test, I would have used QGIS to create these maps and spent more time fixing the issues with the dataset, which led to some missing data.
+  <p>Would I have had more time in my hands to complete this skills test, I would have used QGIS to create these maps and spent more time fixing the issues with the dataset, which led to some missing data.
