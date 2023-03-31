@@ -10,7 +10,7 @@ I used a <b>stacked bar chart</b> to show the percentage of late declarations pe
 
 <li><b>Dataset:</b> I created <a href="https://github.com/ibonnet/portfolio/blob/main/politico/ex1/LateDeclarationsCOUNT.csv">a new excel sheet where I grouped the MEP political parties.</a></li>
 <li><b>Used tool:</b> I used Excel for the dataset, then exported the document as a .csv file. I used the <a href"https://d3-graph-gallery.com/">d3.js Graph Gallery</a> to build the bar chart.</li>
-<li><b>Interactivity:</b> The bar chart can be accessed <a href="">here</a>.</li>
+<li><b>Interactivity:</b> The bar chart can be accessed <a href="https://ibonnet.github.io/portfolio/tree/main/politico/ex1">here</a>.</li>
 
 <br>
   
